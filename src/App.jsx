@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { arrayMove } from '@dnd-kit/sortable'
-import Sidebar from './components_temp/Sidebar'
-import Canvas from './components_temp/Canvas'
+import Sidebar from './components/Sidebar'
+import Canvas from './components/Canvas'
 import './App.css'
 
 function App() {
