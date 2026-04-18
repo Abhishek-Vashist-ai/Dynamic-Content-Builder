@@ -48,9 +48,9 @@ cd project-folder
 npm install
 npm run dev
 ## Live Demo
-https://shooping-website-five.vercel.app/
+https://dynamic-content-builder-ux84.vercel.app/
 ## GitHub Repository
-https://github.com/Abhishek-Vashist-ai/Shooping-website
+https://github.com/Abhishek-Vashist-ai/Dynamic-Content-Builder
 ## Development Approach
 This project was built incrementally over three days:
 Day 1: Layout and block palette
